@@ -1,0 +1,4 @@
+2x.model filter=lfs diff=lfs merge=lfs -text
+rl-from-early-game-2x.weights filter=lfs diff=lfs merge=lfs -text
+*.model filter=lfs diff=lfs merge=lfs -text
+*.weights filter=lfs diff=lfs merge=lfs -text
